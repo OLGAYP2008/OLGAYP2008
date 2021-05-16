@@ -2,7 +2,7 @@
 - 👀 I’m interested in art and music
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on career cpaching
-- 📫 How to reach me ...
+- 📫 How to reach me: no worries I will find you
 
 <!---
 OLGAYP2008/OLGAYP2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
